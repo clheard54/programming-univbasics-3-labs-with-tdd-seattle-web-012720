@@ -1,7 +1,7 @@
 # Add your variables here
-first_number = get_variable_from_file('./calculator.rb', "first_number")
+first_number = 6
 
-second_number = get_variable_from_file('./calculator.rb', "second_number")
+second_number = 2.5
 
 sum = first_number + second_number
 difference = first_number - second_number
